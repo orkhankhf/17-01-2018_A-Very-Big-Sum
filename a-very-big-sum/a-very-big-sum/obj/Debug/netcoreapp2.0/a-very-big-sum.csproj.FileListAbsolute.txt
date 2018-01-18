@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\bin\Debug\netcoreapp2.0\a-very-big-sum.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\bin\Debug\netcoreapp2.0\a-very-big-sum.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\bin\Debug\netcoreapp2.0\a-very-big-sum.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\bin\Debug\netcoreapp2.0\a-very-big-sum.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\bin\Debug\netcoreapp2.0\a-very-big-sum.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\a-very-big-sum\a-very-big-sum\obj\Debug\netcoreapp2.0\a-very-big-sum.pdb
